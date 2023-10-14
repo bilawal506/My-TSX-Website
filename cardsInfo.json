@@ -1,0 +1,44 @@
+[
+        {
+            "imageUrl":"/whitet-shirt.jpeg",
+            "title":"White T-Shirt",
+            "description":"A simple plain White T-Shirt",
+            "price":35,
+            "BuyUrl":"https://www.amazon.com/Hanes-Originals-Sleeve-Crewneck-T-Shirt/dp/B0BY3KDR86/ref=sr_1_3?crid=2DKEB5J0JGXQQ&keywords=white+t+shirt&qid=1696934404&sprefix=white+t+%2Caps%2C1699&sr=8-3"
+        },
+        {
+            "imageUrl":"/wallet.jpeg",
+            "title":"Wallet",
+            "description":"A Black stylish wallet",
+            "price":15,
+            "BuyUrl":"https://www.amazon.com/Timberland-Genuine-Blocking-Passcase-Security/dp/B01MEGZ3W6/ref=sr_1_1_sspa?keywords=wallet&qid=1696934483&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"
+        },
+        {
+            "imageUrl":"/cup.jpeg",
+            "title":"Cup",
+            "description":"A Blue Cup of tea",
+            "price":5,
+            "BuyUrl":"https://www.amazon.com/Lomonosov-Porcelain-Cobalt-Espresso-Saucer/dp/B011T6KNU0/ref=sr_1_9?keywords=tea+cup&qid=1696934526&sr=8-9"
+        },
+        {
+            "imageUrl":"/BatmanArtifact.jpeg",
+            "title":"Batman Artifact",
+            "description":"A 3D Statue of Batman",
+            "price":64,
+            "BuyUrl":"https://www.amazon.com/McFarlane-Toys-Direct-Batman-Statue/dp/B0BWSJJ5YB/ref=sr_1_5?keywords=batman+statue&qid=1697017050&sr=8-5"
+        },
+        {
+            "imageUrl":"/BatSuit.jpeg",
+            "title":"BatSuit",
+            "description":"The Suit of Batman!",
+            "price":635,
+            "BuyUrl":"https://www.amazon.com/Charades-Comics-Knight-Batman-Costume/dp/B07XSBWGV7/ref=sr_1_13?crid=3133GMDR8RK7X&keywords=bat+suit+for+adults&qid=1697017000&sprefix=bat+suit+for+ad%2Caps%2C1461&sr=8-13"
+        },
+        {
+            "imageUrl":"/BatWing.jpeg",
+            "title":"BatWing",
+            "description":"Fly away with the BatWing!",
+            "price":27,
+            "BuyUrl":"https://www.amazon.com/DC-Comics-Batwing-Action-Vehicle/dp/B09NNMPNNQ/ref=sr_1_2?crid=PXGRIAD90IA3&keywords=BatWing&qid=1697017078&sprefix=ba%2Caps%2C672&sr=8-2"
+        }
+]
